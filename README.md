@@ -1,7 +1,7 @@
 <h2> Password Generator<h2> 
 
-<h3>A Password Generator in order to allow better password creation for users using prompts, alerts and confirms.</h3>
-
+<p>A Password Generator in order to allow better password creation for users using prompts, alerts and confirms.</p>
+<hr>
  <h2> Password Generator Preview </h2>
  
 https://user-images.githubusercontent.com/79026810/141594344-38342131-4231-4ddc-a250-6b6c84555107.mov
