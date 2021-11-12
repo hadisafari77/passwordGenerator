@@ -1,12 +1,10 @@
 <h2> Password Generator<h2> 
- <hr>
+
 <h3>A Password Generator in order to allow better password creation for users using prompts, alerts and confirms.</h3>
 
- 
  <h2> Password Generator Preview </h2>
  
 https://user-images.githubusercontent.com/79026810/141594344-38342131-4231-4ddc-a250-6b6c84555107.mov
-
  
 <h2> Technologies Used </h2>
 <hr>
@@ -17,7 +15,6 @@ https://user-images.githubusercontent.com/79026810/141594344-38342131-4231-4ddc-
 <li>Javascript - for logic and finctionallity purposes </li>
 <li> GitHub - hosting repository that can be deployed to GitHub Pages </li>
 </ul>
-
 
 <h2> Summary <h2> 
 <hr> 
@@ -39,7 +36,7 @@ After the questions are properly answered, a password is generated and can be co
 <hr>
 <li> <a href="https://www.linkedin.com/in/hadi-safari-649309141/">LinkedIn</a>  <a href="https://github.com/hadisafari77">GitHub</a></li>
 
- <li> <a href="https://www.w3schools.com/js/DEFAULT.asp"><W3 Schools</a> </li>
+
 
 
 
