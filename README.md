@@ -13,8 +13,8 @@ https://user-images.githubusercontent.com/79026810/141594344-38342131-4231-4ddc-
 <ul> 
 <li> HTML - for base structure </li>
 <li> CSS - stying of html </li>
+<li> Javascript - for logic and functionality purposes </li>
 <li> Git - version control system to track changes to source code </li>
-<li>Javascript - for logic and finctionallity purposes </li>
 <li> GitHub - hosting repository that can be deployed to GitHub Pages </li>
 </ul>
  
