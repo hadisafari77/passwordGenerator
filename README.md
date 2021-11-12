@@ -1,6 +1,7 @@
 <h2> Password Generator<h2> 
 
-<li> A Password Generator in order to allow better password creation for users using prompts, alerts and confirms. </li>
+ A Password Generator in order to allow better password creation for users using prompts, alerts and confirms. 
+ 
 <hr>
  
  <h2> Password Generator Preview </h2>
@@ -16,14 +17,14 @@ https://user-images.githubusercontent.com/79026810/141594344-38342131-4231-4ddc-
 <li>Javascript - for logic and finctionallity purposes </li>
 <li> GitHub - hosting repository that can be deployed to GitHub Pages </li>
 </ul>
+ 
+<hr> 
 
 <h2> Summary <h2> 
 <p>This website will start after the first click on the "Generate" button, staring the password creation process with prompt(), alert(), and confirm() methods in Javascript. 
-The user will have to choose a dsired passsword length, choose what they want the password to contain, for example amongst special characters, lowercase or uppercase characters or even choosing if they want to inlcude numbers or not.
+The user will have to choose a desired passsword length, and choose what they want the password to contain. 
+For example, amongst special characters, lowercase or uppercase characters or numbers.
 After the questions are properly answered, a password is generated and can be copied by the user.</p>
-
-<h2> Javascript Code Snippet</h2> 
-<h3> An example Alert() & Confirm() Usage With If Statement.</h3>
 <hr>
 
 <h2>Deployed Link:</h2>
@@ -34,6 +35,8 @@ After the questions are properly answered, a password is generated and can be co
 <li> <a href="https://www.linkedin.com/in/hadi-safari-649309141/">LinkedIn</a>  <a href="https://github.com/hadisafari77">GitHub</a></li>
 <hr>
 
+  <h2> Acknowledgements </h2> 
+  <li> W3 Schools </li>
 
 
 
