@@ -43,19 +43,23 @@ After the questions are properly answered, a password is generated and can be co
 <h3> An example Alert() & Confirm() Usage With If Statement.</h3>
 
 
-<h2>Deployed Link</h2>
+<h2>Deployed Link:</h2>
 
-<li> See Live Site </li>
+ <a href="https://hadisafari77.github.io/Professional-Portfolio/index.html">See Live Site</a>
+
+
+ 
+ 
+ 
 
 
 <h2>Author Links</h2>
 
-<li> Linkedin   Github</li>
+<li> <a href="https://www.linkedin.com/in/hadi-safari-649309141/">LinkedIn</a>  <a href="https://github.com/hadisafari77">GitHub</a></li>
 
 
 <h2> Acknowledgements </h2>
 <hr>
- 
  <li> <W3 Schools </li>
 
 
