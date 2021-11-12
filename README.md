@@ -1,6 +1,6 @@
 <h2> Password Generator<h2> 
 
-A Password Generator in order to allow better password creation for users using prompts, alerts and confirms.
+<p font-size: 20px; A Password Generator in order to allow better password creation for users using prompts, alerts and confirms. </p>
 <hr>
  
  <h2> Password Generator Preview </h2>
