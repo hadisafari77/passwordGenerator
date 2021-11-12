@@ -28,7 +28,7 @@ After the questions are properly answered, a password is generated and can be co
 <hr>
 
 <h2>Deployed Link:</h2>
- <a href="https://hadisafari77.github.io/passwordGenerator/">See Live Site</a>
+ <li> <a href="https://hadisafari77.github.io/passwordGenerator/">See Live Site</a> </li>
 <hr>
 
 <h2>Author Links</h2>
