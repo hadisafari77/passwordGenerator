@@ -39,9 +39,6 @@ After the questions are properly answered, a password is generated and can be co
 <hr>
 <li> <a href="https://www.linkedin.com/in/hadi-safari-649309141/">LinkedIn</a>  <a href="https://github.com/hadisafari77">GitHub</a></li>
 
-
-<h2> Acknowledgements </h2> 
- <hr>
  <li> <a href="https://www.w3schools.com/js/DEFAULT.asp"><W3 Schools</a> </li>
 
 
