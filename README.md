@@ -59,7 +59,6 @@ After the questions are properly answered, a password is generated and can be co
 
 
 <h2> Acknowledgements </h2>
-<hr>
  <li> <a href="https://www.w3schools.com/js/DEFAULT.asp"><W3 Schools</a> </li>
 
 
