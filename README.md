@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/79026810/141594344-38342131-4231-4ddc-
 <hr> 
 
 <h2> Summary <h2> 
-<p>This website will start after the first click on the "Generate" button, staring the password creation process with prompt(), alert(), and confirm() methods in Javascript. 
+<p>This website will start after the first click on the "Generate Password" button, staring the password creation process with prompt(), alert(), and confirm() methods in Javascript. 
 The user will have to choose a desired passsword length, and choose what they want the password to contain. 
 For example, amongst special characters, lowercase or uppercase characters or numbers.
 After the questions are properly answered, a password is generated and can be copied by the user.</p>
