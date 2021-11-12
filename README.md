@@ -1,6 +1,6 @@
-<h2> Password Generator<h2> 
+Password Generator
 
- A Password Generator in order to allow better password creation for users using prompts, alerts and confirms. 
+A Password Generator in order to allow better password creation for users using prompts, alerts and confirms. 
  
 <hr>
  
